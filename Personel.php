@@ -16,5 +16,7 @@ class Personel
     public $adi;
     public $soyadi;
 
+
+    public $adres;
 }
 
