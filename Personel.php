@@ -17,8 +17,5 @@ class Personel
     public $soyadi;
     public $dogumtarihi;
     public $sicil;
-
-
-    public $adres;
 }
 
