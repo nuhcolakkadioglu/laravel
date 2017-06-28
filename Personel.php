@@ -15,6 +15,8 @@ class Personel
     public $id;
     public $adi;
     public $soyadi;
+    public $dogumtarihi;
+    public $sicil;
 
 }
 
